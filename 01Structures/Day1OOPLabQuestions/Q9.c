@@ -3,7 +3,7 @@
 
 #include<stdio.h>
 #include<string.h>
-using namespace std;
+
 struct employee{
 	char name[30];
 	char address[100];

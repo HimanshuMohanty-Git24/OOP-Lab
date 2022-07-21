@@ -4,7 +4,6 @@ Take the data for n employees in an array and find the average salary.
 */ 
 #include<stdio.h>
 
-using namespace std;
 struct employee{
 	char name[30];
 	char address[100];
