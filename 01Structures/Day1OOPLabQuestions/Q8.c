@@ -22,7 +22,7 @@ int main()
 {
     struct employee e[100];
     int n,Avgsal;
-    printf("Enter the number of students: ");
+    printf("Enter the number of Employees: ");
     scanf("%d",&n);
     for(int i=0;i<n;i++){
         printf("Employee No.%d\n",(i+1));
