@@ -1,6 +1,5 @@
 //6) WAP to swap the values of two variables by using a suitable user defined function (say SWAP) for it.
 #include<stdio.h>
-
 void swap(int *p,int *q)
 {
     int tmp;
