@@ -17,7 +17,8 @@ int main()
             sum += i;
         }
     }
-    cout << "The Sum of factors is:" << sum << endl;
+    cout << "The Sum of factors is:" << sum << endl
+         << endl;
     multi = 2 * num;
     if (multi == sum)
     {
