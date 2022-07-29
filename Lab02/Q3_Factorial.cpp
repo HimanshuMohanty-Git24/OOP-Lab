@@ -1,3 +1,4 @@
+// 3.WAP to find factorial of number
 #include <iostream>
 
 using namespace std;

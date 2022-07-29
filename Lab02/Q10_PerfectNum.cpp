@@ -1,3 +1,4 @@
+// 10.WAP to check whether an input integer is perfect number or not.
 #include <iostream>
 
 using namespace std;
@@ -5,7 +6,7 @@ using namespace std;
 int main()
 {
     int i, num, sum = 0, multi;
-    cout << "Enter the number to find factor:";
+    cout << "Enter the number:";
     cin >> num;
     cout << endl;
     cout << "The factors of " << num << " are:" << endl;

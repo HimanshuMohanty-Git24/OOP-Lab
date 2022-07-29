@@ -1,3 +1,4 @@
+// 7.WAP to calculate the sum of digits of a given number.
 #include <iostream>
 #include <math.h>
 

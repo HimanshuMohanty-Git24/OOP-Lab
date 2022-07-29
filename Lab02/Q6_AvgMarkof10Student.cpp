@@ -1,3 +1,4 @@
+// 6.Program to find average marks obtained by a class of 10 students in a test.
 #include <iostream>
 #include <math.h>
 

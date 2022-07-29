@@ -1,3 +1,4 @@
+// 9.WAP to check whether a number n is prime number or not.
 #include <iostream>
 using namespace std;
 

@@ -1,3 +1,4 @@
+// 8.WAP to find the GCD/HCF of two numbers .
 #include <iostream>
 using namespace std;
 

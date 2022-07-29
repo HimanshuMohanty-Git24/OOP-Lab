@@ -1,3 +1,4 @@
+// 2.WAP to check even or odd
 #include <iostream>
 
 using namespace std;
