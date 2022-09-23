@@ -59,11 +59,14 @@ public:
 
 int main()
 {
-    Employee e;
-    e.get_data();
+    Employee eR, eP;
+    cout << "Enter detail of Regular employee" << endl;
+    eR.get_data();
     Regular r(2000, 3000, 10000);
     r.display();
 
+    cout << "\nEnter Detail of Part-Time Employee" << endl;
+    eP.get_data();
     PartTime p(8, 800);
     p.display();
 
