@@ -43,9 +43,11 @@ public:
 
 int main()
 {
+    cout << "\nBefore negative operator:\n";
     Matrix m1;
     m1.input();
     m1.display();
+    cout << "\nAfter negative operator:\n";
     -m1;
     m1.display();
 }
