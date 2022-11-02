@@ -18,7 +18,7 @@ public:
 
 int main()
 {
-    Truth t(true);
+    Truth t(false);
 
     if (!t)
         cout << "t is false" << endl;
