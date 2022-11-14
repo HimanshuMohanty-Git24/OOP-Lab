@@ -1,3 +1,4 @@
+// WAP to read the string from keyboard and write to a file.
 #include <iostream>
 #include <fstream>
 using namespace std;
