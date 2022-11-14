@@ -1,4 +1,4 @@
-
+// WAP to append the contents of one file to other.
 #include <fstream>
 #include <iostream>
 using namespace std;
