@@ -3,6 +3,9 @@
 The ‘contractual’ class stores the number of hours and pay per hour.
 Calculate the salary of a regular employee and a par-time employee.*/
 // SET-3
+// Himanshu Mohanty
+// 2105719
+// CSE-36
 #include <iostream>
 
 using namespace std;
