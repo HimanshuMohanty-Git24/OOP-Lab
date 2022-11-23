@@ -20,7 +20,7 @@ protected:
 public:
     void get_data()
     {
-        cout << "Enter name";
+        cout << "Enter name:";
         cin >> name;
         cout << "Enter ID:";
         cin >> id;
@@ -43,7 +43,7 @@ public:
     }
     void display()
     {
-        cout << "\nSalary of the permanent employee is " << (DA + HRA + basic_salary);
+        cout << "\nSalary of the permanent employee is: " << (DA + HRA + basic_salary);
     }
 };
 
@@ -61,7 +61,7 @@ public:
     }
     void display()
     {
-        cout << "\nSalary of the part-time employee is " << (number_of_hours * pay_per_hour);
+        cout << "\nSalary of the part-time employee is: " << (number_of_hours * pay_per_hour);
     }
 };
 
